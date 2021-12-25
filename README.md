@@ -2,16 +2,22 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ozanhonamlioglu&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
-## SKILLS
+## ABOUT ME
+Hi there, I am a full stack mobile developer who mainly works with React Native and .NET technologies.   
+I have been in the bussiness almost more than 8 years and even now I am a React Native developer but in the past I was an Objective-c and Swift programmer on Apple platforms. Also at the backend I have been developing with PHP at 2011, then used to be a Python Django developer and a Node js developer since I am a JavaScript developer. So clearly I can say that since I started to programming, my main focus was in backend and mobile platforms.
 
-### Programming Languages
+## SPECIALTY
+Mobile (React Native), Backend(.NET) and Compilers(Currently working with "Babel JavaScript" compiler but I have well knowledge on overall compilers and interpreters).
 
-<img src="https://img.shields.io/badge/-C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/-JavaScript-orange" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-blue" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Swift-red" alt="Swift" /> <img src="https://img.shields.io/badge/-Objective--c-lightgrey" alt="Objective-c" />
+## BOOKS; WELL EDUCATION IS IMPORTANT (not talking about schools)
+- But How Do It Know? (read 3 times)
+- Crafting Interpreters (read once)
 
-### Frameworks
-• React Native & React  
-• SwiftUI & UIKit & ARKit  
-• QT
+## PROGRAMMING LANGUAGES
+- JavaScript
+- TypeScript
+- C
+- C#
 
 ## WANT TO KNOW MORE?
 [<img src="https://img.shields.io/badge/linkedin-https%3A%2F%2Fbit.ly%2F3eGrb0s-blue" alt="linkedin" />](https://bit.ly/3eGrb0s)
