@@ -9,7 +9,7 @@ I have been in the bussiness almost more than 8 years and even now I am a React 
 ## SPECIALTY
 Mobile (React Native), Backend(.NET) and Compilers(Currently working with "Babel JavaScript" compiler but I have well knowledge on overall compilers and interpreters).
 
-## BOOKS; WELL EDUCATION IS IMPORTANT (not talking about schools)
+## BOOKS
 - But How Do It Know? (read 3 times)
 - Crafting Interpreters (read once)
 
