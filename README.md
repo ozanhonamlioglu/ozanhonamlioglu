@@ -16,7 +16,6 @@ Mobile (React Native), Backend(.NET) and Compilers(Currently working with "Babel
 ## PROGRAMMING LANGUAGES
 - JavaScript
 - TypeScript
-- C
 - C#
 
 ## WANT TO KNOW MORE?
