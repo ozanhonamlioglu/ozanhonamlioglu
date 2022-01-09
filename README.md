@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ozanhonamlioglu@gmail.com**
 
-- ⚡ I love to work with compiler and laguage technologies. Currently contributing to [Babel compiler](https://github.com/ozanhonamlioglu/babel).
+- ⚡ I love to work with compiler and laguage technologies. Currently contributing to [Babel compiler](https://github.com/babel/babel).
 
 - 🤓 I am a self and life long learner, open minded and love to learn about science. 
 
