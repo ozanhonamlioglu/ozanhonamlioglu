@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ozan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&multiline=true&width=500&height=100&lines=Full+Stack+Mobile+Developer;Javascript+%7C+TypeScript+%7C+C%23">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&width=500&lines=Full+Stack+Mobile+Developer;Js+%7C+Ts+%7C+C%23">
 </p>
 
 <hr/>
