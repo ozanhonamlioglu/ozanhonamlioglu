@@ -53,16 +53,16 @@
 
 <h3>Statistical Data :</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanhonamlioglu&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanhonamlioglu&layout=compact"
     alt="ozanhon" /></p>
 
 <br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ozanhonamlioglu&show_icons=true&count_private=true"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ozanhonamlioglu&show_icons=true"/></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanhonamlioglu&" alt="ozanhon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanhonamlioglu" alt="ozanhon" /></p>
 
 <br>
 <h3>Trophies :</h3>
