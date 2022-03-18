@@ -18,18 +18,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ozanhonamlioglu" target="blank"><img align="center"
-      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
-      alt="ozan" height="40" width="40" /></a>
-  <a href="https://twitter.com/the_last_dev" target="blank"><img align="center"
-      src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
-      alt="ozan" height="40" width="40" /></a>
-</p>
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <img
@@ -52,11 +40,6 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanhonamlioglu&layout=compact"
-    alt="ozanhon" /></p>
-
-<br>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ozanhonamlioglu&show_icons=true"/></p>
 
@@ -76,8 +59,5 @@
 
 ## ABOUT ME
 Hi there, I am a full stack mobile developer who mainly works with React Native and .NET technologies.   
-I have been in the bussiness almost more than 8 years and even now I am a React Native developer but in the past I was an Objective-c and Swift programmer on Apple platforms. Also at the backend I have been developing with PHP at 2011, then used to be a Python Django developer and a Node js developer since I am a JavaScript developer. So clearly I can say that since I started to programming, my main focus is in backend and mobile platforms.
-
-## BOOKS
-- But How Do It Know? (read 3 times)
-- Crafting Interpreters (read once)
+I have been in the bussiness almost more than 8 years and even now I am a React Native developer but in the past I was an Objective-c and Swift programmer on Apple platforms. Also at backend side I had been developing with PHP, Django and NodeJs.  
+So clearly I can say that since I started to programming, my main focus is at backend and mobile platforms.
