@@ -8,7 +8,7 @@
 ### Shortly
 Hello, my name is Ozan. I am a full stack React and .NET back-end developer.  
 In React my expertise is mostly React Native Mobile.  
-A side note: I was developing native mobile apps more than 3 years in the past, but then switched to cross platform development such as React Native.
+> A side note: I was developing native mobile apps more than 3 years in the past, but then switched to cross platform development such as React Native.
 
 ### Languages
 <p>
