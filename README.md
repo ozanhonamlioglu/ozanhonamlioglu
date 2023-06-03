@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Ozan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&width=500&lines=Full+Stack+Mobile+Developer;Js+%7C+Ts+%7C+C%23">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=F79B36&center=true&vCenter=true&multiline=true&width=500&height=85&lines=Senior+Frontend+Developer;React%2C+React+Native%2C+NextJs%2C+CSS" alt="Typing SVG" />
 </p>
 
 <hr/>
 
-### Shortly
-Hello, my name is Ozan. I am a full stack React and .NET back-end developer.  
-> React, React Native, CSS, NextJs and .NET
+### Who Am I
+I am a senior frontend developer who passionately works with React, React Native, NextJs anc CSS.  
+I also have very good knowledge in low level programming with C. I still do embedded projects in my free time on small micro controllers, so if you have any questions, I will gladly answer.
 
 ### Languages
 <p>
