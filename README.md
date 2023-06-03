@@ -6,8 +6,8 @@
 <hr/>
 
 ### Who Am I
-I am a senior frontend developer who passionately works with React, React Native, NextJs anc CSS.  
-I also have very good knowledge in low level programming with C. I still do embedded projects in my free time on small micro controllers, so if you have any questions, I will gladly answer.
+I am a senior frontend developer who passionately works with React, React Native, NextJs and CSS.  
+I also have good knowledge in low level programming with C. I still do embedded projects in my free time on small micro controllers, so if you have any questions I will gladly answer.
 
 ### Languages
 <p>
