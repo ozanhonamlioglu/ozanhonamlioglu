@@ -7,7 +7,7 @@
 
 ### Shortly
 Hello, my name is Ozan. I am a full stack React and .NET back-end developer.  
-> React Web, React Native and .NET
+> React, React Native, CSS, NextJs and .NET
 
 ### Languages
 <p>
