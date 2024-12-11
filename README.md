@@ -6,7 +6,7 @@
 <hr/>
 
 ### Hello
-I am a software engineer; A native Android and React Native developer
+I am a software engineer; A native Android and React Native developer.
 
 ### Languages
 <p>
