@@ -8,9 +8,12 @@
 ### Hello
 I am a software engineer; A native Android and React Native developer.
 
-### Languages
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,js,ts,react,c" />
-  </a>
-</p>
+### Android
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,c&theme=light" />
+</a>
+
+### React Native
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react" />
+</a>
