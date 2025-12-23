@@ -7,11 +7,12 @@
 
 ### Hello
 As a Senior Software Engineer driving innovation in **mobile development** while actively pursuing **Artificial Intelligence research**.  
-My focus areas within AI include **Large Language Models (LLMs)** and **Image Processing**, where I leverage C++ and mathematical principles to understand and build core algorithms.
+
+My AI research focuses on LLMs, attention mechanisms, and Transformers, leveraging C++ and mathematical principles to engineer core algorithms from the ground up.
 
 ### Mobile Stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,react&theme=light" />
 </a>
 
 ### AI Stack
