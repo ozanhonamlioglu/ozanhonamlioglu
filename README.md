@@ -1,7 +1,10 @@
 ### Hello
-I am a software engineer who works at LLMs, ML, Deep Learning, core mathematics of AI field, GPU Programming (Cuda, Metal and Vulkan).
+I am a software engineer who works at Machine Learning acceleration tasks. I try to write efficient programs, helps speeds up ML/LLM projects. Also enjoy reading documentation.
 
 ### Engineering Stack
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,ts" />
-</a>
+
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,pytorch,cuda,ts" />
+  </a>
+</p>
