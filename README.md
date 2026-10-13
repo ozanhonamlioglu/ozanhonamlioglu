@@ -1,5 +1,5 @@
 ### Hello
-I am a software engineer who works at Machine Learning acceleration tasks. I try to write efficient programs and help speed up ML/LLM projects.
+I am a software engineer, love working on LLMs, Machine Learning and Deep Learning.
 
 ### Engineering Stack
 
